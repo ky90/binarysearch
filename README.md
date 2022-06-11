@@ -5,6 +5,7 @@ https://binarysearch.com/
 
 | Questions | Difficulties | Titles |
 | ------ | ------ | ------ | 
+|  18   | Easy | Run-Length Encoding | 
 |  313  | Easy | Run-Length Decoding | 
 
 
